@@ -1,0 +1,15 @@
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\bin\Debug\net6.0\Employee.exe
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\bin\Debug\net6.0\Employee.deps.json
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\bin\Debug\net6.0\Employee.dll
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\bin\Debug\net6.0\Employee.pdb
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.dll
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.pdb
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\Vinayak.Gohel\source\repos\Flight\Flight\obj\Debug\net6.0\ref\Employee.dll
